@@ -85,7 +85,6 @@ There are multiple places you can share your solution:
 We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
 
 The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
-![form pic](https://staticresources123.s3.amazonaws.com/site/other/landings/contact-form/contact-form-screen.png)
 
 ## Got feedback for us?
 
